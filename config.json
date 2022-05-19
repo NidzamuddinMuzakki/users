@@ -1,0 +1,7 @@
+{
+    "DB_USERNAME":"nidzam",
+    "DB_PASSWORD":"Adapro",
+    "DB_PORT":1435,
+    "DB_HOST":"dev.adapro.tech",
+    "DB_NAME":"users"
+}
